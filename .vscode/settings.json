@@ -1,0 +1,5 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "tslint.alwaysShowRuleFailuresAsWarnings": false,
+    "tslint.configFile": "./tslint.json"
+}
