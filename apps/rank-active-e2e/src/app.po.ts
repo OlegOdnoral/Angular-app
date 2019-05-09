@@ -6,6 +6,6 @@ export class AppPage {
   }
 
   getTitleText() {
-    return element(by.css('angular-app-root h1')).getText() as Promise<string>;
+    return element(by.css('app-rank-active-root h1')).getText() as Promise<string>;
   }
 }
